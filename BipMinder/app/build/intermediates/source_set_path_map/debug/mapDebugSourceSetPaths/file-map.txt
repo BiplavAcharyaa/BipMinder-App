@@ -1,0 +1,58 @@
+com.bipminder.app-lifecycle-runtime-release-0 C:\Users\KIIT\.gradle\caches\8.9\transforms\0771ca4b04f4f1b6b2271917c3788ee6\transformed\lifecycle-runtime-release\res
+com.bipminder.app-room-ktx-2.6.1-1 C:\Users\KIIT\.gradle\caches\8.9\transforms\0974bad7e4ec53cc16ece42f1279dc66\transformed\room-ktx-2.6.1\res
+com.bipminder.app-sqlite-2.4.0-2 C:\Users\KIIT\.gradle\caches\8.9\transforms\0a618cf0da9c65a470c48616a695ffef\transformed\sqlite-2.4.0\res
+com.bipminder.app-startup-runtime-1.1.1-3 C:\Users\KIIT\.gradle\caches\8.9\transforms\0cc66c67568fc8208e6c6438ce99b52d\transformed\startup-runtime-1.1.1\res
+com.bipminder.app-navigation-common-2.8.2-4 C:\Users\KIIT\.gradle\caches\8.9\transforms\11e2adf23c2c834ccdc7776c61e13d15\transformed\navigation-common-2.8.2\res
+com.bipminder.app-lifecycle-viewmodel-savedstate-2.8.6-5 C:\Users\KIIT\.gradle\caches\8.9\transforms\1516653902ae2dcaae2a389fe3570942\transformed\lifecycle-viewmodel-savedstate-2.8.6\res
+com.bipminder.app-runtime-saveable-release-6 C:\Users\KIIT\.gradle\caches\8.9\transforms\15d2cb528501cd6d557ca96f4bd0868e\transformed\runtime-saveable-release\res
+com.bipminder.app-material3-release-7 C:\Users\KIIT\.gradle\caches\8.9\transforms\1bace66b06abb7770f4a5b1bee0c5c26\transformed\material3-release\res
+com.bipminder.app-annotation-experimental-1.4.1-8 C:\Users\KIIT\.gradle\caches\8.9\transforms\1f0113c3f257074fca4ad9225891e5cd\transformed\annotation-experimental-1.4.1\res
+com.bipminder.app-lifecycle-viewmodel-ktx-2.8.6-9 C:\Users\KIIT\.gradle\caches\8.9\transforms\24f54ccb778748255fe9175461b6eed0\transformed\lifecycle-viewmodel-ktx-2.8.6\res
+com.bipminder.app-ui-release-10 C:\Users\KIIT\.gradle\caches\8.9\transforms\28b22e4f7d58271c1ef40acd3ce92ccc\transformed\ui-release\res
+com.bipminder.app-ui-util-release-11 C:\Users\KIIT\.gradle\caches\8.9\transforms\3a4f198936a1a30804c05045ccfba499\transformed\ui-util-release\res
+com.bipminder.app-material-icons-extended-release-12 C:\Users\KIIT\.gradle\caches\8.9\transforms\3a7b2f85178668b6bac07e511a68d768\transformed\material-icons-extended-release\res
+com.bipminder.app-core-ktx-1.13.1-13 C:\Users\KIIT\.gradle\caches\8.9\transforms\3d8bb332bae36c94b6693d24e7bd45ad\transformed\core-ktx-1.13.1\res
+com.bipminder.app-graphics-path-1.0.1-14 C:\Users\KIIT\.gradle\caches\8.9\transforms\3d8eb4c1279530cc5ace248940fa9530\transformed\graphics-path-1.0.1\res
+com.bipminder.app-lifecycle-livedata-core-2.8.6-15 C:\Users\KIIT\.gradle\caches\8.9\transforms\42aedca697d297e38332e08eb4a5e819\transformed\lifecycle-livedata-core-2.8.6\res
+com.bipminder.app-lifecycle-runtime-compose-release-16 C:\Users\KIIT\.gradle\caches\8.9\transforms\443c54e320cd1d16ec0a16d441df44c3\transformed\lifecycle-runtime-compose-release\res
+com.bipminder.app-emoji2-1.3.0-17 C:\Users\KIIT\.gradle\caches\8.9\transforms\48bdd22356474d27a6091494c7904d88\transformed\emoji2-1.3.0\res
+com.bipminder.app-animation-core-release-18 C:\Users\KIIT\.gradle\caches\8.9\transforms\4bbc84620f8fd21da6d329b592aada45\transformed\animation-core-release\res
+com.bipminder.app-profileinstaller-1.3.1-19 C:\Users\KIIT\.gradle\caches\8.9\transforms\5502365f1971825626f4785525760d38\transformed\profileinstaller-1.3.1\res
+com.bipminder.app-navigation-common-ktx-2.8.2-20 C:\Users\KIIT\.gradle\caches\8.9\transforms\589d82c64b0617c1738a81901b600c4e\transformed\navigation-common-ktx-2.8.2\res
+com.bipminder.app-sqlite-framework-2.4.0-21 C:\Users\KIIT\.gradle\caches\8.9\transforms\58bc69f4d9c988a9ae9ec289b5126808\transformed\sqlite-framework-2.4.0\res
+com.bipminder.app-lifecycle-runtime-ktx-release-22 C:\Users\KIIT\.gradle\caches\8.9\transforms\647a26ee48fa81baed8635bcd43d41ed\transformed\lifecycle-runtime-ktx-release\res
+com.bipminder.app-datastore-core-release-23 C:\Users\KIIT\.gradle\caches\8.9\transforms\64d83b4afdca8e2062ad4e4bdce2355c\transformed\datastore-core-release\res
+com.bipminder.app-material-icons-core-release-24 C:\Users\KIIT\.gradle\caches\8.9\transforms\74c79bb9706d5061203426e2b1e60a5f\transformed\material-icons-core-release\res
+com.bipminder.app-ui-graphics-release-25 C:\Users\KIIT\.gradle\caches\8.9\transforms\914d0a603c1e06eb94c8722bbd01c77a\transformed\ui-graphics-release\res
+com.bipminder.app-ui-unit-release-26 C:\Users\KIIT\.gradle\caches\8.9\transforms\96c0b54ae7ae55900ae9e64e8321b7fc\transformed\ui-unit-release\res
+com.bipminder.app-ui-geometry-release-27 C:\Users\KIIT\.gradle\caches\8.9\transforms\97c16ff1092dea0122b1bb27e2288bba\transformed\ui-geometry-release\res
+com.bipminder.app-lifecycle-process-2.8.6-28 C:\Users\KIIT\.gradle\caches\8.9\transforms\9bc644f0dec8fa9edd6a6052665987b8\transformed\lifecycle-process-2.8.6\res
+com.bipminder.app-datastore-release-29 C:\Users\KIIT\.gradle\caches\8.9\transforms\9f3294f0aa8379d12b7fe48aa32fb3e2\transformed\datastore-release\res
+com.bipminder.app-foundation-layout-release-30 C:\Users\KIIT\.gradle\caches\8.9\transforms\a0e391cd4e4c964540625365d4b14f10\transformed\foundation-layout-release\res
+com.bipminder.app-activity-compose-1.9.2-31 C:\Users\KIIT\.gradle\caches\8.9\transforms\a11379bbdcc48c488e060a21db64b153\transformed\activity-compose-1.9.2\res
+com.bipminder.app-navigation-compose-2.8.2-32 C:\Users\KIIT\.gradle\caches\8.9\transforms\a805e7edaae36e58e2731f3a8ef97fa3\transformed\navigation-compose-2.8.2\res
+com.bipminder.app-animation-release-33 C:\Users\KIIT\.gradle\caches\8.9\transforms\a96bce945b57b46062d15f5ea8c8a405\transformed\animation-release\res
+com.bipminder.app-ui-text-release-34 C:\Users\KIIT\.gradle\caches\8.9\transforms\aa16ff7f9b14cb30663f28453b761cf5\transformed\ui-text-release\res
+com.bipminder.app-datastore-preferences-release-35 C:\Users\KIIT\.gradle\caches\8.9\transforms\ad83f7fe6560f4d6a16bc6d4113badfa\transformed\datastore-preferences-release\res
+com.bipminder.app-savedstate-ktx-1.2.1-36 C:\Users\KIIT\.gradle\caches\8.9\transforms\b1fdd0fe2070039d80954452205c5770\transformed\savedstate-ktx-1.2.1\res
+com.bipminder.app-core-1.13.1-37 C:\Users\KIIT\.gradle\caches\8.9\transforms\b25bb1e9ac97f1c1ac6c4059c8926107\transformed\core-1.13.1\res
+com.bipminder.app-material-ripple-release-38 C:\Users\KIIT\.gradle\caches\8.9\transforms\b6417c3b8704d89f65a0d26f8969702b\transformed\material-ripple-release\res
+com.bipminder.app-foundation-release-39 C:\Users\KIIT\.gradle\caches\8.9\transforms\bed298c7a924a6cd6b8c961f2aca8674\transformed\foundation-release\res
+com.bipminder.app-lifecycle-viewmodel-release-40 C:\Users\KIIT\.gradle\caches\8.9\transforms\beff348431835fd1a479adef11241ef1\transformed\lifecycle-viewmodel-release\res
+com.bipminder.app-lifecycle-viewmodel-compose-release-41 C:\Users\KIIT\.gradle\caches\8.9\transforms\bfdb749587cd204a3505aa2d1d4196d0\transformed\lifecycle-viewmodel-compose-release\res
+com.bipminder.app-navigation-runtime-2.8.2-42 C:\Users\KIIT\.gradle\caches\8.9\transforms\c59fc34dc6c6b0c93997ac52b780b06a\transformed\navigation-runtime-2.8.2\res
+com.bipminder.app-savedstate-1.2.1-43 C:\Users\KIIT\.gradle\caches\8.9\transforms\c7daf36ef022970ffc49a7ddcb1aa039\transformed\savedstate-1.2.1\res
+com.bipminder.app-room-runtime-2.6.1-44 C:\Users\KIIT\.gradle\caches\8.9\transforms\cc49433638e1fd97a3347c711af11bae\transformed\room-runtime-2.6.1\res
+com.bipminder.app-core-runtime-2.2.0-45 C:\Users\KIIT\.gradle\caches\8.9\transforms\cd30f92c91068907e76eb1cc74f781d7\transformed\core-runtime-2.2.0\res
+com.bipminder.app-activity-ktx-1.9.2-46 C:\Users\KIIT\.gradle\caches\8.9\transforms\cdd43c8b81348ac3a57bac4c8b3cab44\transformed\activity-ktx-1.9.2\res
+com.bipminder.app-activity-1.9.2-47 C:\Users\KIIT\.gradle\caches\8.9\transforms\d1473fbb90afbbb0ee38e04a9b03d013\transformed\activity-1.9.2\res
+com.bipminder.app-customview-poolingcontainer-1.0.0-48 C:\Users\KIIT\.gradle\caches\8.9\transforms\d1ec15b0ecd4ca7a6e9d1897d1008219\transformed\customview-poolingcontainer-1.0.0\res
+com.bipminder.app-navigation-runtime-ktx-2.8.2-49 C:\Users\KIIT\.gradle\caches\8.9\transforms\e2d8a6165e1d463fa3ec19425ba1f2ec\transformed\navigation-runtime-ktx-2.8.2\res
+com.bipminder.app-runtime-release-50 C:\Users\KIIT\.gradle\caches\8.9\transforms\f389ae6f78fccd071ce3db962b03bf37\transformed\runtime-release\res
+com.bipminder.app-pngs-51 C:\Users\KIIT\Downloads\BipMinder-complete (1)\BipMinder\app\build\generated\res\pngs\debug
+com.bipminder.app-resValues-52 C:\Users\KIIT\Downloads\BipMinder-complete (1)\BipMinder\app\build\generated\res\resValues\debug
+com.bipminder.app-packageDebugResources-53 C:\Users\KIIT\Downloads\BipMinder-complete (1)\BipMinder\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.bipminder.app-packageDebugResources-54 C:\Users\KIIT\Downloads\BipMinder-complete (1)\BipMinder\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.bipminder.app-debug-55 C:\Users\KIIT\Downloads\BipMinder-complete (1)\BipMinder\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.bipminder.app-debug-56 C:\Users\KIIT\Downloads\BipMinder-complete (1)\BipMinder\app\src\debug\res
+com.bipminder.app-main-57 C:\Users\KIIT\Downloads\BipMinder-complete (1)\BipMinder\app\src\main\res
